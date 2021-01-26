@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'HelveticaRegular';
+    src: url('./fonts/HelveticaRegular/HelveticaRegular.eot');
+    src: url('./fonts/HelveticaRegular/HelveticaRegular.eot?iefix') format('eot'),
+    url('./fonts/HelveticaRegular/HelveticaRegular.woff') format('woff'),
+    url('./fonts/HelveticaRegular/HelveticaRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaThin';
+    src: url('./fonts/HelveticaThin/HelveticaThin.eot');
+    src: url('./fonts/HelveticaThin/HelveticaThin.eot?iefix') format('eot'),
+    url('./fonts/HelveticaThin/HelveticaThin.woff') format('woff'),
+    url('./fonts/HelveticaThin/HelveticaThin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
